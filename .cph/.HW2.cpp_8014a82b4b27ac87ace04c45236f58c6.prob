@@ -1,0 +1,1 @@
+{"name":"Local: HW2","url":"c:\\code\\pd2\\HW2.cpp","tests":[{"id":1742408231633,"input":"register User 1/23\nupdate User 3/21\nsearch User\nsearch User123\nbuy 2345/6/7 User 3\nApple 12 3\nBanana 45 6\nCar 78 9\ndetail User 0\nsummary User","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\pd2\\HW2.cpp","group":"local","local":true}

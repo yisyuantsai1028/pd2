@@ -1,0 +1,1 @@
+{"name":"Local: HW1","url":"c:\\code\\pd2\\HW1.c","tests":[{"id":1740735025537,"input":"apple\nteppa\n3\n1 3 1 3\n1 3 3 5\n2 5 5 5","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\pd2\\HW1.c","group":"local","local":true}
