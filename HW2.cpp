@@ -20,6 +20,7 @@ class Record {
 
         int total() const {
             int sum = 0;
+            int aaaa;
             for (auto &p : products)
             {
                 sum += p.price * p.count;
